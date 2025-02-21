@@ -12,6 +12,9 @@ This project focuses on HR analytics for a company (*XXX Excel Anywhere*) using 
 6️⃣ *Interactive Slicers* - Filtering options for better insights.  
 7️⃣ *Data Refresh Tracking* - Ensuring up-to-date HR metrics.  
 
+## 📊 Summary Page Preview
+![Summary Page Screenshot](HR_Summary_pg.png)  
+
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](dashboard-image.png)  
 
